@@ -15,7 +15,7 @@ sudo python3 astra.py --setup
 <details>
   <summary>Summary</summary>
   
-- MetaSploit
+- [MetaSploit](https://www.metasploit.com/)
 - [Pip packages](https://github.com/NotReeceHarris/Astra-FrameWork/blob/main/requirement.txt)
 - python-lxml
 - wget 
