@@ -13,4 +13,6 @@ sudo python3 astra.py --setup
 ```
 
 ## Run
-`sudo python3 atsra.py`
+```bash
+sudo python3 atsra.py
+```
