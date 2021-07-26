@@ -16,7 +16,7 @@ sudo python3 astra.py --setup
   <summary>Summary</summary>
   
 - MetaSploit
-- Pip packages
+- [Pip packages](https://github.com/NotReeceHarris/Astra-FrameWork/blob/main/requirement.txt)
 - python-lxml
 - wget 
 - grep 
