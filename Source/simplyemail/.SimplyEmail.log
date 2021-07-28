@@ -1,0 +1,12 @@
+2021-07-26 12:13:53,447-[SimplyEmail]-[INFO]- Program started
+2021-07-26 12:13:53,448-[SimplyEmail]-[INFO]- Set Logging Warning Capture: True
+2021-07-26 12:13:53,460-[SimplyEmail.TaskController]-[INFO]- SimplyEmail Verison set to: v1.5.0
+2021-07-26 12:13:53,460-[SimplyEmail.TaskController]-[INFO]- SimplyEmail started at: 20210726-1213
+2021-07-26 12:13:53,529-[SimplyEmail.Main]-[WARNING]- Domain not supplied
+2021-07-26 12:14:00,336-[SimplyEmail]-[INFO]- Program started
+2021-07-26 12:14:00,337-[SimplyEmail]-[INFO]- Set Logging Warning Capture: True
+2021-07-26 12:15:20,222-[SimplyEmail]-[INFO]- Program started
+2021-07-26 12:15:20,225-[SimplyEmail]-[INFO]- Set Logging Warning Capture: True
+2021-07-26 12:15:20,240-[SimplyEmail.TaskController]-[INFO]- SimplyEmail Verison set to: v1.5.0
+2021-07-26 12:15:20,240-[SimplyEmail.TaskController]-[INFO]- SimplyEmail started at: 20210726-1215
+2021-07-26 12:15:20,308-[SimplyEmail.Main]-[WARNING]- Domain not supplied
