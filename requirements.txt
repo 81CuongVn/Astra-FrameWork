@@ -25,7 +25,7 @@ html5lib==0.999999999
 idna==2.6
 python_magic==0.4.13
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 webencodings==0.5.1
 xlsx2csv==0.7.3
 XlsxWriter==1.0.2
