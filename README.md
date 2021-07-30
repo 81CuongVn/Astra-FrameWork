@@ -11,28 +11,6 @@ cd Astra-FrameWork
 ```bash
 sudo python3 astra.py --setup
 ```
-### What is installed?
-<details>
-  <summary>Summary</summary>
-  
-- [MetaSploit](https://www.metasploit.com/)
-- [Pip packages](https://github.com/NotReeceHarris/Astra-FrameWork/blob/main/requirement.txt)
-- python-lxml
-- wget 
-- grep 
-- antiword 
-- odt2txt 
-- python-dev 
-- libxml2-dev 
-- libxslt1-dev
-- python-virtualenv
-- libmagic
-- curl 
-- autoenv
-- git
-- python-magic
-- Homebrew
-</details>
 
 ## Run
 ```bash
